@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋</h1>
+<h1 align="center">नमस्ते (Namaste)🙏🏻</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 💬 Ask me about anything I am happy to help :)
