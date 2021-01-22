@@ -1,5 +1,6 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_1qOjAzI4bVFSZlG-m_jKY2phebqbI0A-g&usqp=CAU"></p>
 
 - 💬 Ask me about anything I am happy to help :)
 
